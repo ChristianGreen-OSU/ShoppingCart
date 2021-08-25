@@ -1,0 +1,6 @@
+1     The Shawshank Redemption           19.95
+2     The Dark Knight                    19.95
+3     Casablanca                          9.95
+4     The Girl With The Dragon Tattoo    14.95
+5     Vertigo                             9.95
+6     A Game of Thrones                   8.95

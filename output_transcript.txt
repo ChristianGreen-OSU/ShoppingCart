@@ -1,0 +1,52 @@
+Enter an input file: 1     The Shawshank Redemption           19.95
+2     The Dark Knight                    19.95
+3     Casablanca                          9.95
+4     The Girl With The Dragon Tattoo    14.95
+5     Vertigo                             9.95
+6     A Game of Thrones                   8.95
+
+Enter something to add to the cart (0 to quit): Enter a quantity: 
+Your cart contains: 
+The Shawshank Redemption                3 x 19.95     59.85
+Total cost:      59.85
+
+Hit ENTER to continue1     The Shawshank Redemption           19.95
+2     The Dark Knight                    19.95
+3     Casablanca                          9.95
+4     The Girl With The Dragon Tattoo    14.95
+5     Vertigo                             9.95
+6     A Game of Thrones                   8.95
+
+Enter something to add to the cart (0 to quit): Enter a quantity: 
+Your cart contains: 
+The Shawshank Redemption                3 x 19.95     59.85
+The Dark Knight                        10 x 19.95    199.50
+Total cost:     259.35
+
+Hit ENTER to continue1     The Shawshank Redemption           19.95
+2     The Dark Knight                    19.95
+3     Casablanca                          9.95
+4     The Girl With The Dragon Tattoo    14.95
+5     Vertigo                             9.95
+6     A Game of Thrones                   8.95
+
+Enter something to add to the cart (0 to quit): Enter a quantity: 
+Your cart contains: 
+The Shawshank Redemption                3 x 19.95     59.85
+The Dark Knight                        10 x 19.95    199.50
+Vertigo                                 1 x  9.95      9.95
+Total cost:     269.30
+
+Hit ENTER to continue1     The Shawshank Redemption           19.95
+2     The Dark Knight                    19.95
+3     Casablanca                          9.95
+4     The Girl With The Dragon Tattoo    14.95
+5     Vertigo                             9.95
+6     A Game of Thrones                   8.95
+
+Enter something to add to the cart (0 to quit): 
+Your final purchases: 
+The Shawshank Redemption                3 x 19.95     59.85
+The Dark Knight                        10 x 19.95    199.50
+Vertigo                                 1 x  9.95      9.95
+Total cost:     269.30
